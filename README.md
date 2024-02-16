@@ -3,11 +3,17 @@
 
 - 🔭 I’m currently working on **my Bachelor's Project which is on object detection and sound generation**
 
+- 🌱 I’m currently learning **Android Development and Machine Learning**
+
 - 📫 How to reach me **eylul.guleryuz@gmail.com**
+
+- 📄 Know about my experiences [https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+- ⚡ Fun fact **direct translation of my name is "September Smilingface"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eylul-guleryuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eylul-guleryuz/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eylul-guleryuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eylul-guleryuz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
