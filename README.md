@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **Android Development and Machine Learning**
 
-- 📫 How to reach me **eylul.guleryuz@gmail.com**
+- 📫 How to reach me: **eylul.guleryuz@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-- ⚡ Fun fact **direct translation of my name is "September Smilingface"**
+- 📄 Know about my experiences: <a href="[https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]" target="blank"></a>
+<a href="[url](https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" target="blank"> my CV</a>
+- ⚡ Fun fact: **direct translation of my name is "September Smilingface"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
