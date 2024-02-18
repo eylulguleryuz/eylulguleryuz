@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eylül</h1>
 <h3 align="center">A passionate final-year IT student, currently living in Kaunas, Lithuania</h3>
 
-- 🔭 I’m currently working on **my Bachelor's Project which is on object detection and sound generation**
+- 🔭 I’m currently working on **my Bachelor's Project which is on object detection and sound generation with AI**
 
 - 🌱 I’m currently learning **Android Development and Machine Learning**
 
