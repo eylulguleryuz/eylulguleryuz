@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my Bachelor's Project which is on object detection and sound generation with deep learning**
 
-- 🌱 I’m currently learning **Full-Stack Development and Machine Learning**
+- 🌱 I’m currently learning **Website (full-stack) Development and Machine Learning**
 
 - 📫 How to reach me: **eylul.guleryuz@gmail.com**
 
