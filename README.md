@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Eylül</h1>
-<h3 align="center">A passionate final-year IT student, currently living in Kaunas, Lithuania</h3>
+<h3 align="center">An AI enthusiast, currently living in Kaunas, Lithuania</h3>
 
-- 🔭 I’m currently working on **my Bachelor's Project which is on object detection and sound generation with deep learning**
-
-- 🌱 I’m currently learning **Website (full-stack) Development and Machine Learning**
+- 🔭 I’m currently working as an AI Analyst, leading projects and developing AI solutions.**
 
 - 📫 How to reach me: **eylul.guleryuz@gmail.com**
 
-- 📄 Know about my experiences: <a href="https://www.canva.com/design/DAF894uJuZw/bgrdwbRi5sDzWCfNGMtvLw/edit?utm_content=DAF894uJuZw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="blank"> my CV</a>
 - ⚡ Fun fact: **direct translation of my name is "September Smilingface"**
 
 <h3 align="left">Connect with me:</h3>
